@@ -134,9 +134,14 @@ export default {
           to: '/'
         },
         {
+          icon: 'mdi-category-outline',
+          title: 'Inspire',
+          to: '/inspire'
+        },
+        {
           icon: 'mdi-chart-bar-stacked',
           title: 'Sing UP',
-          to: '/signup' // สมมติว่ามีหน้า /reports
+          to: '/signup'
         }
       ],
       miniVariant: false,
