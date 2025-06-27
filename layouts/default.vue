@@ -131,17 +131,17 @@ export default {
         {
           icon: 'mdi-home-outline',
           title: 'Home',
-          to: '/'
+          to: '/',
         },
         {
-          icon: 'mdi-category-outline',
+          icon: 'mdi-calendar',
           title: 'Inspire',
-          to: '/inspire'
+          to: '/inspire',
         },
         {
           icon: 'mdi-chart-bar-stacked',
           title: 'Sing UP',
-          to: '/signup'
+          to: '/signup',
         }
       ],
       miniVariant: false,
